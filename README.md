@@ -41,7 +41,7 @@ request. Corrections are very welcome.
 ## License
 
 These notes are licensed under
-[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 In plain terms, you are free to:
 
@@ -54,6 +54,8 @@ Under these conditions:
 - **NonCommercial** — you may **not** sell these notes or use them for commercial purposes,
   including reselling them, putting them behind a paywall, or bundling them into a paid course
   or paid note pack
+- **ShareAlike** — if you remix or build on these notes, you must release your version under
+  this same license, so it stays just as free for the next person
 
 Studying from them, sharing them with classmates, printing them for yourself, or using them in
 free study groups is all fine. Making money off them is not.
