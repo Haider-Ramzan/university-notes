@@ -19,9 +19,9 @@ someone else, they've done their job.
 | [Database (DB)](<Database (DB)>) | ER/EER diagrams and mapping, relational algebra, normalization, query processing and optimization, transaction processing |
 | [Operating Systems (OS)](<Operating Systems (OS)>) | Full course notes, plus memory management and semaphores/monitors |
 | [Software Design And Analysis (SDA)](<Software Design And Analysis (SDA)>) | Activity, component, deployment and package diagrams, plus GoF design patterns (Factory, Singleton, Adapter, Facade, Observer, Strategy) |
-| [Artificial Intelligence (AI)](<Artificial Intelligence (AI)>) | Full course notes, split before/after the first sessional |
+| [Artificial Intelligence (AI)](<Artificial Intelligence (AI)>) | Course notes, split before/after the first sessional |
 | [Theory of Automata](<Theory of Automata>) | CFG, CNF and GNF, and pushdown automata |
-| [Prob and Stats](<Prob and Stats>) | Full course notes, split before/after the first sessional |
+| [Prob and Stats](<Prob and Stats>) | Course notes, split before/after the first sessional |
 
 More subjects will appear here as I get through them.
 
