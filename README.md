@@ -39,12 +39,6 @@ More subjects will appear here as I get through them.
   git pull        # later, to get the latest notes
   ```
 
-## About me
-
-I'm Haider Ramzan, a Computer Science undergraduate at FAST-NUCES Islamabad. Alongside these
-notes I build things — games, schedulers, AI systems and course projects — most of which live
-in my [other repositories](https://github.com/Haider-Ramzan?tab=repositories).
-
 ## License
 
 These notes are licensed under
