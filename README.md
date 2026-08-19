@@ -58,7 +58,4 @@ Under these conditions:
 - **ShareAlike** — if you remix or build on these notes, you must release your version under
   this same license, so it stays just as free for the next person
 
-Studying from them, sharing them with classmates, printing them for yourself, or using them in
-free study groups is all fine. Making money off them is not.
-
 The full legal text is in [LICENSE](LICENSE).
