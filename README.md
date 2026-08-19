@@ -4,7 +4,9 @@ Handwritten and typed notes from my Computer Science degree, collected in one pl
 Everything here is material I made while studying — organised by course, roughly in the order
 the topics were taught.
 
-If they help you study, pass an exam, or teach someone else, they've done their job.
+I'm still partway through the degree, so this is a living repository — I'll keep adding
+subjects and topics as I take them. If these notes help you study, pass an exam, or teach
+someone else, they've done their job.
 
 ## Subjects
 
@@ -21,22 +23,27 @@ If they help you study, pass an exam, or teach someone else, they've done their 
 | [Theory of Automata](<Theory of Automata>) | CFG, CNF and GNF, and pushdown automata |
 | [Prob and Stats](<Prob and Stats>) | Full course notes, split before/after the first sessional |
 
-## How the files are named
+More subjects will appear here as I get through them.
 
-- Files numbered `1_`, `2_`, `3_` … follow the order topics were covered in class, so reading
-  them top to bottom follows the syllabus.
-- Files labelled **"Before Sessional 1"** / **"After Sessional 1"** are the full set of notes for
-  that half of the semester (a *sessional* is a mid-semester exam).
-- Everything else is a standalone topic that was big enough to deserve its own document.
+## How to download
 
-## Using these notes
+- **A single PDF** — click the file to preview it in GitHub, then use the **Download**
+  button at the top right of the viewer.
+- **Everything at once** — press the green **Code** button on the repository home page and
+  choose **Download ZIP**.
+- **With git** — clone the whole repository and pull whenever I add new notes:
 
-Download the folder for a subject, or click any PDF to read it straight in GitHub.
-They're meant as a companion to lectures and textbooks, not a replacement — I wrote them for
-myself, so expect the occasional shortcut or personal notation.
+  ```bash
+  git clone https://github.com/Haider-Ramzan/university-notes.git
+  cd university-notes
+  git pull        # later, to get the latest notes
+  ```
 
-Spotted a mistake, or want to add notes for a topic that's missing? Open an issue or a pull
-request. Corrections are very welcome.
+## About me
+
+I'm Haider Ramzan, a Computer Science undergraduate at FAST-NUCES Islamabad. Alongside these
+notes I build things — games, schedulers, AI systems and course projects — most of which live
+in my [other repositories](https://github.com/Haider-Ramzan?tab=repositories).
 
 ## License
 
