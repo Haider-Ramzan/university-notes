@@ -1,10 +1,10 @@
 # University Notes
 
 Handwritten notes from my Computer Science degree, collected in one place as PDFs.
-Everything here is material I made while studying — organised by course, roughly in the order
+Everything here is material I made while studying, organised by course, roughly in the order
 the topics were taught.
 
-I'm still partway through the degree, so this is a living repository — I'll keep adding
+I'm still partway through the degree, so this is a living repository. I'll keep adding
 subjects and topics as I take them.
 
 
